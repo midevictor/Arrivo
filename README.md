@@ -10,8 +10,7 @@ Arrivo (Estatein) is a modern real estate discovery web app that helps users bro
 - **Search & Filter**: Narrow results using simple search and filtering controls to match user preferences.
 - **Responsive Design**: Optimized layouts for desktop, tablet, and mobile screens.
 - **Interactive UI**: Modern interface with subtle animations and micro-interactions.
-- **Testimonials**: Customer feedback section to add credibility and trust.
-- **FAQ**: Frequently asked questions to help users quickly find common answers.
+-
 
 ---
 
@@ -21,9 +20,6 @@ Arrivo (Estatein) is a modern real estate discovery web app that helps users bro
 - **Language**: TypeScript
 - **Styling**: Tailwind CSS
 - **UI Components**: Radix UI
-- **Icons**: Lucide React
-- **Charts**: Recharts
-- **Forms & Validation**: React Hook Form + Zod
 - **Package Manager**: npm
 
 ---
